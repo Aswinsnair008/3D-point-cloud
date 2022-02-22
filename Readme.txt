@@ -1,6 +1,6 @@
 
 The instance can be launched by simply uploading the template to AWS and creating a new stack.
-This template will create a new Notebook instance  with S3 bucket and will also launch a jupiter notebook as told here in the reference video https://www.youtube.com/watch?v=dQGJZucBPsg
+This template will create a new Notebook instance  with S3 bucket and will also launch a jupyter notebook as told here in the reference video https://www.youtube.com/watch?v=dQGJZucBPsg
  
 Note:
 
